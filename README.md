@@ -1,3 +1,4 @@
+![8ogqpfkvqqpyfbs3w6p7](https://user-images.githubusercontent.com/57607250/126332351-3557714b-b911-4cfe-a22e-c4baaa12203d.png)
 # `GIT SETUP`
 ```
 git config --global user.name "name"
